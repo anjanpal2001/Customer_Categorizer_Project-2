@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Customer Personality Segmentation
 
@@ -165,3 +166,6 @@ From these above models after hyperparameter optimization we selected these two 
 - This Project can be used in real-life by Users.
 
 
+=======
+# Customer_Categorizer_Project-2
+>>>>>>> c5084e85d71662ea2f9f8f67d9c372535bab8e6b
